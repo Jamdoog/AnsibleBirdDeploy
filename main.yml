@@ -2,4 +2,4 @@
 - name: Deploy Bird BGP Router
   hosts: all
   roles:
-    - jamdoog.ssh
+    - jamdoog.bird
